@@ -1,0 +1,1000 @@
+  735  cd /opt/lampp/htdocs/git-repo/
+  736  grep -r -l "Returning Customer" .
+  737  grep -r -l "Returning Customer"
+  738  grep -r -l "Teacher"
+  739  youtube-dl https://www.youtube.com/watch?v=CIh_618o1TQ
+  740  ping google.com
+  741  git branch checkout -b security 
+  742  git checkout -b security 
+  743  git branch
+  744  git status
+  745  git pull origin security
+  746  git reset --hard origin/security
+  747  git status
+  748  git pull origin security
+  749  git add .
+  750  git commit -m "renforced security by letting no one know skademy runs on wordpres"
+  751  git pull origin security
+  752  git status
+  753  git branch
+  754  git push origin security
+  755  git add .
+  756  git commit -m "Changed plugin information"
+  757  git pull origin security 
+  758  git push origin security
+  759  git status
+  760  cd ..
+  761  chmod -R 755 git-repo/
+  762  sudo su
+  763  git status
+  764  cd git-repo/
+  765  git status
+  766  git push origin security
+  767  server
+  768  skademy
+  769  stop
+  770  sudo su
+  771  history
+  772  sudo su
+  773  history
+  774  cd /opt/lampp/htdocs/git-repo/
+  775  git commit -m "enabled copy protection from the site"g
+  776  gedit ~/.bashrc
+  777  gedit ~/.bash_aliases
+  778  gedit ~/.bashrc
+  779  grep -r -f "Contact Us"
+  780  grep -r -l "Contact Us"
+  781  history
+  782  grep -r -l "[contact-form-7 id="2128" title="contact form page" html_class="contact-page"]"
+  783  grep -r -l "html_class="contact-page"
+  784  "
+  785  grep -r -l "Contact Us"
+  786  gedit wp-content/themes/skademy/inc/admin/data/demo-02/data/demodata.xml
+  787  sudo /opt/lampp/lampp start
+  788  cd /media/sandra-emma/BACKUPS
+  789  cd /media/sandra-emma/
+  790  ls
+  791  sudo /opt/lampp/lampp start
+  792  ping google.com
+  793  exit
+  794  history
+  795  ping google.com
+  796  clear
+  797  ping google.com
+  798  d ad
+  799  cl
+  800  gedit ~/.bash_profile
+  801  history
+  802  gedit ~/.bashrc
+  803  clear
+  804  gs
+  805  git status
+  806  skademy
+  807  gs
+  808  gedit ~/.bashrc
+  809  gst
+  810  git status
+  811  ga .
+  812  gedit ~/.bashrc
+  813  ga .
+  814  gst
+  815  gedit ~/.bashrc
+  816  ~/.bash_profile
+  817  gedit ~/.bash_profile
+  818  gedit ~/.bashrc
+  819  cl
+  820  gedit ~/.bashrc
+  821  l
+  822  cl
+  823  gedit ~/.bashrc
+  824  cls
+  825  gedit ~/.bashrc
+  826  gst
+  827  gs
+  828  ~/.bash_profile
+  829  gedit ~/.bash_profile
+  830  gedit ~/.bashrc
+  831  gedit ~/.bashrc .
+  832  cl
+  833  sudo apt-get install libqt4-dbus libqt4-network libqt4-xml libasound2
+  834  wget http://www.skype.com/go/getskype-linux-beta-ubuntu-64
+  835  sudo dpkg -i getskype-*
+  836  sudo apt-get -f install
+  837  sudo dpkg -i getskype-*
+  838  sudo apt-get install dpkg
+  839  sudo dpkg -i getskype-*
+  840  cl
+  841  clr
+  842  cd ~/{}{}b/{}{}br{}{}ab{}{}ww
+  843  bo{}{}r in{}{}all an{}{}la{}{}ma{}{}ri{}{}
+  844  bower install angular-material.
+  845  apt-get install bower
+  846  sudo su
+  847  cd ~/{}{}b/{}{}br{}{}ab{}{}ww
+  848  sudo apt-get install nodejs
+  849  sudo su
+  850  cl
+  851  sudo su
+  852  sudo apt-get install nodejs
+  853  sudo su
+  854  cl
+  855  sudo su
+  856  youtube-dl -f https://www.youtube.com/watch?v=tzslrUsgrV0
+  857  history
+  858  youtube-dl https://www.youtube.com/watch?v=tzslrUsgrV0
+  859  cd Documents/
+  860  mkdir gdgBuea
+  861  cd ..
+  862  alias gdgBuea='cd /opt/lampp/htdocs'
+  863  gdgBuea
+  864  php -S localhost:5000
+  865  cd Desktop/angular/
+  866  php -S localhost:5000
+  867  cd ..
+  868  cd /home/sandra-emma/Desktop/angular/
+  869  php -S localhost:50
+  870  npm install bower
+  871  cd Desktop/gd
+  872  cd Desktop/gdgbuea/
+  873  git push origin About
+  874  cd Desktop/gdgbuea/
+  875  php -S localhost:5000
+  876  php -S localhost:7000
+  877  clear
+  878  cd ..
+  879  cd /home/sandra-emma/Desktop/
+  880  https://github.com/GDG-Buea/gdgbuea.git
+  881  git clone https://github.com/GDG-Buea/gdgbuea.git
+  882  cd gdgbuea/
+  883  php -S localhost:5000
+  884  cd ..
+  885  cd /home/sandra-emma/Desktop/
+  886  cl
+  887  gcl https://github.com/GDG-Buea/gdgbuea.git
+  888  cd gdgbuea/
+  889  php -S localhost:5000
+  890  cd ..
+  891  cd /home/sandra-emma/Desktop/
+  892  cl
+  893  gcl https://github.com/GDG-Buea/gdgbuea.git
+  894  ls
+  895  mkdir gdgbuea
+  896  gcl https://github.com/GDG-Buea/gdgbuea.git
+  897  cd gdgbuea/
+  898  cl
+  899  php -S localhost:5000
+  900  git checkout -b About
+  901  git status
+  902  git branch~4
+  903  php -S localhost:5000
+  904  git pull gdgbuea
+  905  cd ..
+  906  cd gdgbuea/
+  907  gp https://github.com/GDG-Buea/gdgbuea.git
+  908  cl
+  909  gp https://github.com/GDG-Buea/gdgbuea.git
+  910  cl
+  911  gp https://github.com/GDG-Buea/gdgbuea.git
+  912  cl
+  913  gp https://github.com/GDG-Buea/gdgbuea.git
+  914  git pull origin master
+  915  php -S localhost:5000
+  916  git pull origin master
+  917  cl
+  918  git pull origin master
+  919  git branch
+  920  gc "changed content of about gdg"
+  921  git commit -m "changed content of about gdg"
+  922  git pull origin mast
+  923  git checkout master
+  924  git status
+  925  ga .
+  926  git commit -m "updated ab about section"
+  927  git checkout master
+  928  git pull origin master
+  929  git checkout about
+  930  git checkout About
+  931  git merge master
+  932  php -S localhost:5000
+  933  git push origin About
+  934  skademy
+  935  cd ..
+  936  cd angular/
+  937  php $ localhost 20
+  938  history
+  939  clear
+  940  php S localhost:20
+  941  history
+  942  clear
+  943  php -S localhost 20
+  944  php -S localhost:20
+  945  chmod -R 777 *
+  946  php -S localhost:20
+  947  cd ..
+  948  cd node_modules/
+  949  php -S localhost:50
+  950  php -S localhost:500
+  951  sudo /opt/lampp/lampp start
+  952  clear
+  953  cd /opt/lampp/htdocs/material-start-master/
+  954  cl
+  955  npm install
+  956  cd ..
+  957  chmod -R 777 gdgbuea/
+  958  cd Desktop/gdgbuea/
+  959  git push origin About
+  960  cd Desktop/gdgbuea/
+  961  git push origin About
+  962  php -S localhost:5000
+  963  ping google.com
+  964  cd Desktop/
+  965  cd gdgbuea/
+  966  ping google.com
+  967  skademy
+  968  cl
+  969  gs
+  970  cl
+  971  git checkout master
+  972  gs
+  973  cl
+  974  ga .
+  975  gpl origin master
+  976  gpu origin master
+  977  gs
+  978  ga .
+  979  gpu origin master
+  980  ping google.com
+  981  gpu origin master
+  982  ls
+  983  sudo /opt/lampp/lampp start
+  984  gpu origin master
+  985  sudo apt-get update
+  986  skademy
+  987  gs
+  988  cl
+  989  git branch
+  990  history
+  991  skademy
+  992  git branch
+  993  cl
+  994  history
+  995  sudo su
+  996  history
+  997  history
+  998  ping google.com
+  999  history
+ 1000  grep -r -f "Subject"Send To (Use or Friend's Name)
+ 1001  grep -r -f "Send To (Use or Friend's Name)"
+ 1002  grep -r -f "Send To (Use or Friend's Name)" .
+ 1003  grep -r -f "Send To" .
+ 1004  skademy
+ 1005  grep -r -f "Send To" .
+ 1006  grep -r -f "Send To (Use or Friend's Name)" .
+ 1007  cl
+ 1008  grep -r -l "Contact Skademy" .
+ 1009  grep -r -l "Hello there!" .
+ 1010  cd /wp-content/plugins/yith-woocommerce-compare/languages
+ 1011  grep -r -l "Contact Skademy" .
+ 1012  grep -r -l "Our Office" .
+ 1013  gedit /wp-content/themes/skademy/inc/admin/data/demo-04/data/demodata.xml
+ 1014  grep -r -l "Got something to say to us? We'd love to hear from you! Just u" .
+ 1015  grep -r -l "We will get back to you to discuss details ASAP." .
+ 1016  cl
+ 1017  grep -r -l "Want to Organize a Training?" .
+ 1018  cl
+ 1019  grep -r -l "Search Messages"
+ 1020  grep -r -l "Search Messages" .
+ 1021  gedit /wp-content/plugins/buddypress/bp-messages/bp-messages-template.php
+ 1022  gedit wp-content/plugins/buddypress/bp-messages/bp-messages-template.php
+ 1023  git commit -m "improved the compose section of messaging"
+ 1024  gs
+ 1025  cl
+ 1026  ga .
+ 1027  gm "impoved on the compose section of the messaging pages"
+ 1028  gs
+ 1029  ga
+ 1030  gs 
+ 1031  cl
+ 1032  gs
+ 1033  gm "added some styles"
+ 1034  ga .
+ 1035  gm "added some styles"
+ 1036  gs
+ 1037  cl
+ 1038  sudo /opt/lampp/lampp start
+ 1039  history
+ 1040  grep -r -f "Send To" .
+ 1041  grep -r -l "Send To" .
+ 1042  skademy
+ 1043  grep -r -l "Send To" .
+ 1044  grep -r -l "Send To (Use or Friend's Name)" .
+ 1045  skademy 
+ 1046  gs
+ 1047  git checkout messaging
+ 1048  gp origin messaging
+ 1049  gpu origin messaging
+ 1050  git push origin messaging
+ 1051  history
+ 1052  git reset --hard b6d7a2647d37866
+ 1053  skademy
+ 1054  git reset --hard b6d7a2647d37866
+ 1055  gp origin messaging
+ 1056  git pull origin messaging
+ 1057  ping google.com
+ 1058  git checkout
+ 1059  git reset --hard 6d8501a7161e2caf44eb25f5661f0bbc520c0e16 
+ 1060  cl
+ 1061  git branch -d messaging
+ 1062  git checkout security
+ 1063  ga .
+ 1064  git checkout security
+ 1065  gm "fixed pull issues"
+ 1066  git checkout security
+ 1067  cl
+ 1068  git branch -d messaging
+ 1069  git branch -D messaging
+ 1070  cl
+ 1071  git pull origin single-course 
+ 1072  ga .
+ 1073  gm "added styles to messaging"
+ 1074  git pull origin single-course 
+ 1075  git reset --hard 6d8501a7161e2caf44eb25f5661f0bbc520c0e16 
+ 1076  cl 
+ 1077  git reset --hard b6d7a2647d37866
+ 1078  git reset --hard 6d8501a7161e2caf44eb25f5661f0bbc520c0e16 
+ 1079  cl
+ 1080  gb
+ 1081  ga .
+ 1082  gm "inline with present site"
+ 1083  gs
+ 1084  cl
+ 1085  git push origin security 
+ 1086  cl
+ 1087  gs
+ 1088  ga .
+ 1089  gm "messaging inline with website"
+ 1090  gs
+ 1091  cl
+ 1092  git push origing security 
+ 1093  git push origin security 
+ 1094  cl
+ 1095  gs
+ 1096  ga .
+ 1097  gm "added some modifications"
+ 1098  cl
+ 1099  gs
+ 1100  cl
+ 1101  git push origin security 
+ 1102  git push --help
+ 1103  cl
+ 1104  gb
+ 1105  git pull origin single-course wip 
+ 1106  git push origin security 
+ 1107  cl
+ 1108  gs
+ 1109  gb
+ 1110  git pull origin single-course-arnold
+ 1111  git push origin security 
+ 1112  git pull origin wip
+ 1113  gs
+ 1114  git push origin security 
+ 1115  cl
+ 1116  git push -force origin security 
+ 1117  git push --force origin security 
+ 1118  cl
+ 1119  grep -r -l "Learning courses" .
+ 1120  grep -r -l "Quiz Results" .
+ 1121  grep -r -l "You have not taken any courses yet!" .
+ 1122  grep -r -l "Learning courses" .
+ 1123  ping google.com
+ 1124  cd Downloads/httrack-3.48.21/
+ 1125  ls
+ 1126  ./configure 
+ 1127  make
+ 1128  make install
+ 1129  sudo su
+ 1130  cl
+ 1131  cd /home/sandra-emma/
+ 1132  wget --mirror -p --convert-links -P ./home/sandra-emma https://mail.google.com/mail/u/0/
+ 1133  wget --mirror -p --convert-links -P  https://mail.google.com/mail/u/0/
+ 1134  wget --mirror -p --convert-links -P ./home https://mail.google.com/mail/u/0/#inbox
+ 1135  wget https://mail.google.com/mail/u/0/#inbox
+ 1136  pwd
+ 1137  cd Desktop/
+ 1138  wget https://mail.google.com/mail/u/0/#inbox
+ 1139  wget -r -p https://mail.google.com/mail/u/0/#inbox
+ 1140  wget -r -p https://mail.google.com
+ 1141  ping google.com
+ 1142  wget -mk https://mail.google.com/mail/u/0/#inbox
+ 1143  sudo apt-get install pidgin-whatsapp
+ 1144  sudo su
+ 1145  cl
+ 1146  cd Desktop/
+ 1147  wget -r facebook.com
+ 1148  wget -r https://facebook.com
+ 1149  cl
+ 1150  wget -r https://facebook.com/
+ 1151  ping google.com
+ 1152  wget -r https://facebook.com/
+ 1153  cl
+ 1154  ping google.com
+ 1155  cl
+ 1156  ping google.com
+ 1157  cl
+ 1158  wget --mirror -p -html-extension --convert-links https://facebook.com/
+ 1159  wget --mirror -p -html-extension --convert-links www.facebook.com/
+ 1160  cl
+ 1161  wget -r -no-parent https://facebook.com/
+ 1162  wget http://facebook.com
+ 1163  cl
+ 1164  wget https://fr.mail.yahoo.com/?.intl=fr&.lang=fr-FR
+ 1165  ping google.com
+ 1166  cl
+ 1167  history
+ 1168  <html>
+ 1169  <head>
+ 1170  </head>
+ 1171  <body class="fullbleed loading">
+ 1172  <div id="splash">
+ 1173  </div>
+ 1174  <template id="t" is="dom-bind">
+ 1175  <template is="dom-if" if="{{syncing}}">
+ 1176  </template>
+ 1177  <div id="loginscreen" class="layout vertical center-center fit"
+ 1178  </div>
+ 1179  <material-search id="search" narrow="[[narrow]]"
+ 1180  <paper-drawer-panel id="drawerPanel" narrow="{{narrow}}">
+ 1181  </paper-drawer-panel>
+ 1182  <paper-toast id="toast" class="toast layout horizontal justified" duration="7000"></paper-toast>
+ 1183  <paper-toast id="swtoast" class="toast layout horizontal justified" duration="7000"
+ 1184  </paper-toast>
+ 1185  <paper-toast id="arhivedtoast" class="toast layout horizontal justified"
+ 1186  </paper-toast>
+ 1187  <paper-fab id="fab" icon="create" on-tap="newMail"></paper-fab>
+ 1188  <iron-localstorage name="polymer-mail-user" value="{{user}}"></iron-localstorage>
+ 1189  <iron-localstorage name="polymer-mail-labels" value="{{labels}}"></iron-localstorage>
+ 1190  <iron-localstorage name="polymer-mail-threads" value="{{threads}}"
+ 1191  <iron-localstorage name="polymer-mail-users" value="{{users}}"></iron-localstorage>
+ 1192  </template>
+ 1193  <platinum-sw-register skip-waiting clients-claim auto-register>
+ 1194  </platinum-sw-register>
+ 1195  <script src="scripts/bundle.js"></script>
+ 1196  <script>
+ 1197  </script>
+ 1198  </body>
+ 1199  cl
+ 1200  wget https://poly-mail.appspot.com/
+ 1201  wget https://mail.google.com/mail/u/0/#inbo
+ 1202  wget https://mail.google.com/mail/u/0/#inbox
+ 1203  wget https://snt147.mail.live.com/
+ 1204  cd Desktop/
+ 1205  wget http://demo.atmail.com/index.php/mail
+ 1206  ping google.com
+ 1207  skademy
+ 1208  cd ..
+ 1209  chmod -R 777 webmail/
+ 1210  chmod -R 777 Hospital-Management-System/
+ 1211  skademy
+ 1212  history
+ 1213  php -S localhost:20
+ 1214  php -S localhost:5000
+ 1215  c;
+ 1216  cl
+ 1217  ping google.com
+ 1218  cl
+ 1219  mkdir -p /tmp/zimbra-git
+ 1220  cd /tmp/
+ 1221  ls
+ 1222  cd zimbra-git/
+ 1223  wget https://files.zimbra.com/downloads/git-fusion/zimbra-git-ssh.tgz
+ 1224  ls
+ 1225  cl
+ 1226  ~/.ssh
+ 1227  tar xfz zimbra-git-ssh.tgz 
+ 1228  cd ~/ .ssh
+ 1229  cp /tmp/zimbra-git/id_rsa_git* .
+ 1230  git clone git@zimbra-git:zimbra-foss
+ 1231  chmod 600 ~/.ssh/config
+ 1232  cd ~/ .ssh/conf
+ 1233  gedit ~ .ssh/config
+ 1234  skademy
+ 1235  hitory
+ 1236  history
+ 1237  grep -r -l "Inbox" .
+ 1238  history
+ 1239  cd /
+ 1240  ls
+ 1241  cd media/
+ 1242  ls
+ 1243  cd sandra-emma/EMMA/
+ 1244  chmod -R 777 Avengers.Age.Of.Ultron.2015.TRUEFRENCH.BDRiP.XViD-AViTECH.avi 
+ 1245  skademy
+ 1246  sudo /opt/lampp/lampp start
+ 1247  ping google.com
+ 1248  cl
+ 1249  skademy
+ 1250  grep -r -l "starred" .
+ 1251  grep -r -l "Notices" .
+ 1252  skademy 
+ 1253  grep -r -l "Sandra Emma Nsiany"
+ 1254  grep -r -l "Sandra Emma Nsiany" .
+ 1255  grep -r -l "name" .
+ 1256  grep -r -l "message" .
+ 1257  cl
+ 1258  grep -r -l "message" .
+ 1259  grep -r -l "messages" .
+ 1260  gedit ./wp-content/plugins/buddypress/bp-groups/bp-groups-admin.php
+ 1261  history
+ 1262  youtube-dl -f https://www.youtube.com/watch?v=os4aJP-yo-M
+ 1263  youtube-dl https://www.youtube.com/watch?v=os4aJP-yo-M
+ 1264  youtube-dl https://www.youtube.com/watch?v=6EwSGMrpueM
+ 1265  skademy
+ 1266  git branch -d messaging 
+ 1267  git branch -D messaging 
+ 1268  exit
+ 1269  skademy
+ 1270  grep -r -l "Course Outcome (Skills attained):" .
+ 1271  ga .
+ 1272  gm "fixed designof course page"
+ 1273  ga .
+ 1274  gm "fixed design in enrol page"
+ 1275  gb
+ 1276  git push origin security 
+ 1277  skademy
+ 1278  ga .
+ 1279  git commit -m "Fixed design of messaging"
+ 1280  gs
+ 1281  git branch
+ 1282  git push origin security 
+ 1283  git branch
+ 1284  git remote add messaging
+ 1285  git remote add "messaging"
+ 1286  git branch
+ 1287  history
+ 1288  git checkout messaging
+ 1289  git branch
+ 1290  git checkout -b messaging
+ 1291  ga .
+ 1292  git commit -m "fixed designs of messaging"
+ 1293  gs
+ 1294  git branch
+ 1295  git add .
+ 1296  git push origin messaging 
+ 1297  git checkout security 
+ 1298  cl
+ 1299  grep -r -l "Course Description" .
+ 1300  gedit ./wp-content/plugins/learnpress/templates/course/content-course-title.php
+ 1301  gedit /wp-content/plugins/learnpress/templates/course/content-course-title.php
+ 1302  ping google.com
+ 1303  cl
+ 1304  ping google.com
+ 1305  cl
+ 1306  sudo su
+ 1307  cl
+ 1308  skademy 
+ 1309  skype 
+ 1310  grep -r -l " Take this course" .
+ 1311  grep -r -l " Free" .
+ 1312  ping google.com
+ 1313  cl
+ 1314  ping google.com
+ 1315  dia
+ 1316  history
+ 1317  skademy
+ 1318  cd ..
+ 1319  history
+ 1320  cd gdgbuea/
+ 1321  cd ..
+ 1322  sudo /opt/lampp/lampp start
+ 1323  chmod -R 777 gdgbuea
+ 1324  chmod -R 777 trial
+ 1325  chmod -R 755 trial
+ 1326  chmod -R 777 trial
+ 1327  clear
+ 1328  cd tria
+ 1329  cd ..
+ 1330  cd trial
+ 1331  chmod -R 777 wp-config.php 
+ 1332  chmod -R 666 wp-config.php 
+ 1333  chmod -R 755 wp-config.php 
+ 1334  ping google.com
+ 1335  cl
+ 1336  ping google.com
+ 1337  youtube -dl https://www.youtube.com/watch?v=QKKcns3x2-4
+ 1338  history
+ 1339  youtube -dl -f https://www.youtube.com/watch?v=QKKcns3x2-4
+ 1340  youtube -dl -F https://www.youtube.com/watch?v=QKKcns3x2-4
+ 1341  youtube-dl  https://www.youtube.com/watch?v=QKKcns3x2-4
+ 1342  ping google.com
+ 1343  cl
+ 1344  /dev/sda3 at /media/sandra-emma/BACKUPS
+ 1345  cd /dev/sda3 at /media/sandra-emma/BACKUPS
+ 1346  /dev/sda3 at /media/sandra-emma/BACKUPS
+ 1347  ping google.com
+ 1348  cd /media/
+ 1349  ls
+ 1350  cd sandra-emma/
+ 1351  ls
+ 1352  cd EMMA/
+ 1353  chmod -R 777 *
+ 1354  chmod -R 755 *
+ 1355  cl
+ 1356  ping google.com
+ 1357  cl
+ 1358  ping google.com
+ 1359  skademy
+ 1360  cd ..
+ 1361  git clone git@github.comsandraemma03/moodle.git
+ 1362  git clone git@github.com:sandraemma03/moodle.git
+ 1363  git config --global user.name "sandraemma03"
+ 1364  git config --global user.email sandraemma03@gmail.com
+ 1365  cl
+ 1366  ls -al ~/.ssh
+ 1367  cl
+ 1368  ssh-keygen -t rsa -b 4096 -C "sandraemma03@gmail.com"
+ 1369  eval "$(ssh-agent -s)"
+ 1370  ssh-add ~/.ssh/id_rsa
+ 1371  cl
+ 1372  ssh -T git@github.com
+ 1373  sudo su
+ 1374  ls -al ~/.ssh
+ 1375  xclip -sel clip < ~/.ssh/id_rsa.pub
+ 1376  ssh -T git@github.com
+ 1377  git clone git@github.com:sandraemma03/moodle.git
+ 1378  CREATE DATABASE moodle DEFAULT CHARACTER SET UTF8 COLLATE utf8_unicode_ci;
+ 1379  mysql
+ 1380  mysql -u root -p sandra
+ 1381  mysql -u root
+ 1382  skademy 
+ 1383  cd ..
+ 1384  mysql -u root
+ 1385  The program 'mysql' can be found in the following packages:
+ 1386  Try: sudo apt-get install <selected package>
+ 1387  mysql -u root -p sandra
+ 1388  sudo /opt/lampp/lampp start
+ 1389  mysql -u root -p sandra
+ 1390  mysql - root
+ 1391  cl
+ 1392  sudo apt-get install mysql-server
+ 1393  cl
+ 1394  cd ..
+ 1395  cd htdocs/
+ 1396  mysql -u root -p sandra
+ 1397  mysql -u root -p 
+ 1398  ping google.com
+ 1399  sudo sh -c "echo 'extension=solr.so' > /etc/php5/apache2/conf.d/solr.ini"
+ 1400  $ which java
+ 1401  cd Desktop/
+ 1402  chmod +x moodle.sh
+ 1403  ./moodle.sh 
+ 1404  mv moodle moodle.backup
+ 1405  skademy 
+ 1406  cd ..
+ 1407  ls
+ 1408  cl
+ 1409  cd /
+ 1410  ld
+ 1411  cd /etc/
+ 1412  ls
+ 1413  cd ..
+ 1414  cd /var/www/html/
+ 1415  mv moodle moodle.backup
+ 1416  cl
+ 1417  sudo apt-get install php-pear
+ 1418  cl
+ 1419  sudo pecl install solr
+ 1420  sudo service apache2 restart
+ 1421  cd Desktop
+ 1422  cd ..
+ 1423  exit
+ 1424  cd Desktop
+ 1425  chmod +x moodle.sh
+ 1426  ./moodle.sh 
+ 1427  which solr
+ 1428  whereis solr
+ 1429  history
+ 1430  cd /var/www/html/moodle/
+ 1431  exit
+ 1432  moodle
+ 1433  cl
+ 1434  git branch
+ 1435  git branch -a
+ 1436  git branch --track MOODLE_30_STABLE origin/MOODLE_30_STABLE
+ 1437  git branch --track MOODLE_29_STABLE origin/MOODLE_29_STABLE
+ 1438  cl
+ 1439  git branch --track MOODLE_28_STABLE origin/MOODLE_28_STABLE
+ 1440  git pull 
+ 1441  $ git clone --depth=1 -b MOODLE_30_STABLE git://git.moodle.org/moodle.git  
+ 1442  exit
+ 1443  history
+ 1444  cl
+ 1445  cl
+ 1446  history
+ 1447  cl
+ 1448  ~/.bash_aliases
+ 1449  ource ~/.bashrc
+ 1450  source ~/.bashrc
+ 1451  gedit ~/.bashrc
+ 1452  cl
+ 1453  moodle
+ 1454  cl
+ 1455  moodle
+ 1456  history
+ 1457  moodle
+ 1458  grep -r -l "$CFG" .
+ 1459  cl
+ 1460  grep -r -l php.ini.
+ 1461  locate php.ini
+ 1462  find -php.ini "query"
+ 1463  find -name "php.ini"
+ 1464  grep -r -l "upload_max_filesize" .
+ 1465  gedit ./repository/upload/lang/en/repository_upload.php
+ 1466  ./repository/upload/lang/en/repository_upload.php
+ 1467  ./lang/en/admin.php
+ 1468  gedit ./lang/en/admin.php
+ 1469  cl
+ 1470  sudo su
+ 1471  grep -r -l "Maximum size for new files" .
+ 1472  chmod -R 777 config.php
+ 1473  gedit config.php
+ 1474  chmod -R 755 config.php
+ 1475  cl
+ 1476  grep -r -l "Maximum size for new files" .
+ 1477  gedit ./lang/en/moodle.php
+ 1478  grep -r -l "maximumupload" .
+ 1479  sudo chmod -R 777 config.php
+ 1480  grep -r -l "Maximum size for new files" .
+ 1481  cl
+ 1482  grep -r -l "upload_max_filesize" .
+ 1483  gedit ./repository/upload/lang/en/repository_upload.php
+ 1484  gedit ./mod/assign/submission/file/settings.php
+ 1485  php -i | grep -i "loaded configuration file"
+ 1486  gedit /etc/php5/cli/php.ini
+ 1487  chmod -R 777 /etc/php5/cli/php.ini
+ 1488  sudo chmod -R 777 /etc/php5/cli/php.ini
+ 1489  gedit /etc/php5/cli/php.ini
+ 1490  sudo chmod -R 755 /etc/php5/cli/php.ini
+ 1491  cl
+ 1492  grep -r -l "The uploaded file exceeds the upload_max_filesize directive in php.ini"
+ 1493  grep -r -l "The uploaded file exceeds the upload_max_filesize directive in php.ini" .
+ 1494  gedit ./repository/upload/lang/en/repository_upload.php
+ 1495  grep -r -l "Maximum size" .
+ 1496  grep -r -l "Maximum size for new files" .
+ 1497  history
+ 1498  cl
+ 1499  find -name ".htaccess"
+ 1500  grep -r -l "The uploaded file exceeds the upload_max_filesize directive in php.ini" .
+ 1501  php -i | grep -i "loaded configuration file"
+ 1502  grep -r -l "upload_max_filesize" .
+ 1503  gedit ./lib/htaccess
+ 1504  find / -name ".htaccess" -print
+ 1505  ls -l $(locate .htaccess)
+ 1506  cl 
+ 1507  locate .htaccess
+ 1508  cl
+ 1509  gedit /etc/php5/cli/php.ini
+ 1510  sudo chmod -R 777 /etc/php5/cli/php.ini
+ 1511  gedit /etc/php5/cli/php.ini
+ 1512  grep -r -l "upload_max_filesize" .
+ 1513  gedit ./lib/htaccess
+ 1514  cl
+ 1515  find . -name ".htaccess"
+ 1516  cd ..
+ 1517  chmod -R 777 moodle/
+ 1518  sudo chmod -R 777 moodle/
+ 1519  cl
+ 1520  sudo gedit /etc/apache2/sites-available/default
+ 1521  sudo gedit /etc/apache2/simoodle/default
+ 1522  sudo gedit /etc/apache2/moodle/default
+ 1523  cd Desktop/
+ 1524  chmod +x moodle.sh
+ 1525  ./moodle.sh 
+ 1526  http://host:port/solr/core/update?stream.body=<delete><query>*:*</query></delete>&commit=true
+ 1527  http://host/solr/core-name/update?stream.body=%3Cdelete%3E%3Cquery%3E*:*%3C/query%3E%3C/delete%3E&commit=true
+ 1528  commit=true -H "Content-Type: text/xml" --data-binary '<delete><query>*:*</query></delete>'
+ 1529  cl
+ 1530  chmod +x moodle.sh
+ 1531  ./moodle.sh 
+ 1532  <delete><query>*:*</query></delete>
+ 1533  curl http://localhost:8983/solr/update?commit=true -d  '<delete><query>*:*</query></delete>'
+ 1534  ./moodle.sh 
+ 1535  cl
+ 1536  cd /bin/
+ 1537  ls
+ 1538  cl
+ 1539  sudo service solr status
+ 1540  cd ~
+ 1541  wget http://apache.mirror1.spango.com/lucene/solr/5.2.1/solr-5.2.1.tgz
+ 1542  tar xzf solr-5.2.1.tgz solr-5.2.1/bin/install_solr_service.sh --strip-components=2
+ 1543  sudo bash ./install_solr_service.sh solr-5.2.1.tgz
+ 1544  sudo service solr status
+ 1545  sudo su - solr -c "/opt/solr/bin/solr create -c gettingstarted -n data_driven_schema_configs"
+ 1546  cd Desktop/
+ 1547  chmod +x moodle.sh
+ 1548  ./moodle.sh 
+ 1549  where is solr-5.4.1
+ 1550  whereis solr-5.4.1
+ 1551  gwhere solr-5.4.1
+ 1552  cl
+ 1553  locate solr-5.4.1
+ 1554  cl
+ 1555  cd ..
+ 1556  chmod +x moodle.sh
+ 1557  ./moodle.sh 
+ 1558  -p
+ 1559  chmod +x moodle.sh
+ 1560  ./moodle.sh 
+ 1561  ping google.com
+ 1562  cl
+ 1563  which solr
+ 1564  moodle
+ 1565  gedit moodle/mod/assign/submission/file/settings.php
+ 1566  gedit /mod/assign/submission/file/settings.php
+ 1567  history
+ 1568  cl
+ 1569  sudo gedit /var/www/html/moodle/ .htaccess
+ 1570  cl
+ 1571  ls
+ 1572  cd lib
+ 1573  ls
+ 1574  cd ..
+ 1575  /lib/htaccess .htaccess
+ 1576  history
+ 1577  cd Desktop/
+ 1578  chmod +x moodle.sh
+ 1579  ./moodle.sh 
+ 1580  ping google.com
+ 1581  cd Desktop/
+ 1582  cd Client-Server\ Python/
+ 1583  python client.py
+ 1584  cl
+ 1585  python client.py
+ 1586  cl
+ 1587  python client.py
+ 1588  python server.py
+ 1589  cl
+ 1590  python client.py
+ 1591  cl
+ 1592  python client.py
+ 1593  cl
+ 1594  python client.py
+ 1595  cl
+ 1596  python client.py
+ 1597  ping google.com
+ 1598  cd Desktop/Client-Server\ Python/
+ 1599  python server.py
+ 1600  cl
+ 1601  python server.py
+ 1602  ping google.com
+ 1603  moodle
+ 1604  cd ..
+ 1605  cl
+ 1606  sudo chmod -R 777 fyp/
+ 1607  sudo chmod -R 777 config.php
+ 1608  cd fyp/
+ 1609  sudo chmod -R 777 config.php
+ 1610  skademy
+ 1611  cd ...
+ 1612  cd ..
+ 1613  sudo chmod -R 777 moodle/
+ 1614  cl
+ 1615  moodle
+ 1616  cd ..
+ 1617  sudo chmod -R 777 fyp
+ 1618  history
+ 1619  cl
+ 1620  fyp
+ 1621  gedit ~/.bashrc
+ 1622  exit
+ 1623  fyp
+ 1624  cl
+ 1625  grep -r -l "quiz"
+ 1626  grep -r -l "quiz".
+ 1627  youtube-dl https://www.youtube.com/watch?v=NkL5_IA-ZiA
+ 1628  youtube-dl https://www.youtube.com/watch?v=yuyEWbWRu5M
+ 1629  youtube -dl https://www.youtube.com/watch?v=23UliVfrjXA
+ 1630  history
+ 1631  history 1000
+ 1632  youtube-dl https://www.youtube.com/watch?v=23UliVfrjXA
+ 1633  cd Trash
+ 1634  locate trash
+ 1635  /home/sandra-emma/.local/share/Trash/info/client.py.trashinfo
+ 1636  cd /home/sandra-emma/.local/share/Trash/
+ 1637  ls
+ 1638  chmod -R 777 *
+ 1639  sudo chmod -R 777 *
+ 1640  fyp
+ 1641  history
+ 1642  cl
+ 1643  grep -r -l 'from question bank'
+ 1644  grep -r -l 'from question bank'.
+ 1645  gedit mod/quiz/yui/src/quizquestionbank/js/quizquestionbank.js
+ 1646  grep -r -l 'questions'.
+ 1647  gedit mod/quiz/settings.php
+ 1648  gedit mod/quiz/index.php
+ 1649  gedit mod/quiz/locallib.php
+ 1650  youtube-dl https://www.youtube.com/watch?v=NkL5_IA-ZiA
+ 1651  ping google.com
+ 1652  php -i | grep -i soap
+ 1653  fyp
+ 1654  yum install php53-soap
+ 1655  sudo su
+ 1656  exit
+ 1657  fyp
+ 1658  gedit ./mod/quiz/tests/behat/editing_add.feature
+ 1659  fyp
+ 1660  cd ..
+ 1661  chmod -R 777 fyp1
+ 1662  sudo service apache2 restart
+ 1663  fyp
+ 1664  cl
+ 1665  grep -r -l "Select a category:" .
+ 1666  sudo su
+ 1667  cl
+ 1668  python2 --version
+ 1669  cd Desktop/multiple\ clients\ one\ server/
+ 1670  python client.py
+ 1671  cl
+ 1672  python client1.py
+ 1673  apt-get install python-tk
+ 1674  sudo su
+ 1675  cl
+ 1676  apt-get install python-tk
+ 1677  cl
+ 1678  python client1.py
+ 1679  python client.py
+ 1680  python client1.py
+ 1681  cl
+ 1682  python client1.py
+ 1683  cl
+ 1684  python client.py
+ 1685  cl
+ 1686  python client.py
+ 1687  cl
+ 1688  python client.py
+ 1689  python cli.py
+ 1690  cl
+ 1691  python cli.py
+ 1692  cl
+ 1693  python cli.py
+ 1694  python ser.py
+ 1695  python gui.py
+ 1696  cl
+ 1697  python gui.py
+ 1698  python server.py
+ 1699  cl
+ 1700  python server.py
+ 1701  cl
+ 1702  python server1.py
+ 1703  python server.py
+ 1704  cl
+ 1705  python server1.py
+ 1706  python server.py
+ 1707  cl
+ 1708  python server.py
+ 1709  cl
+ 1710  python server1.py
+ 1711  cl
+ 1712  python server1.py
+ 1713  cl
+ 1714  python server.py
+ 1715  cl
+ 1716  python server.py
+ 1717  cl
+ 1718  python server.py
+ 1719  cl
+ 1720  python server.py
+ 1721  cl
+ 1722  python gui.py
+ 1723  python ser.py
+ 1724  python cli.py
+ 1725  cl
+ 1726  python c.py
+ 1727  python g.py
+ 1728  sudo su
+ 1729  history
+ 1730  cd Desktop/gdgbuea/
+ 1731  localhost -S 5000
+ 1732  history 5
+ 1733  history 10000
+ 1734  history > print.txt
