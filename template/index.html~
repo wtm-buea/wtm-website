@@ -24,7 +24,7 @@
     <meta property="og:image" content="http://devfest2014.gdgsv.com/img/seo/sharing-facebook.png" />
     <meta property="og:description" content="GDG DevFest is a set of events all around the world" /> 
     
-    <title>GDG Buea - A Community that Codes </title>
+    <title>WTM Buea - A Community that Codes </title>
     <link rel="shortcut icon" href="/img/favicons/favicon.ico">
     <link rel="apple-touch-icon" sizes="152x152" href="/img/favicons/apple-touch-icon-152x152.png">
     <link rel="apple-touch-icon" sizes="144x144" href="/img/favicons/apple-touch-icon-144x144.png">
@@ -140,34 +140,36 @@
 
             <div class="row about-details">   
 
-                <div class="col-md-6 col-xs-6">
-                    <div class="animated hiding" data-animation="fadeInDown" data-delay="0">
-                        <h5>GDG Buea</h5>
-                        <img class="img-rounded" src="/img/about-section/GDG.jpg" height="128" width="128" alt="Conference">
-
-
-                        <p>The Google Developer Group Buea (GDG Buea) is a techosystem of electronic enthusiasts
-                            and technically-minded hobbyists which grooms hackers, entrepreneurs and researchers
-                            by creating an anti-authoritarian culture where Google's technologies are employed to solve the technical problems.</p>
-                    </div>
-                </div>        
-                <div class="col-md-6 col-xs-6">
+                <div class="col-md-11 col-xs-6">
                     <div class="animated hiding" data-animation="fadeInDown" data-delay="500">
                         <h5>
                             WTM Buea
                         </h5>
                         <img class="img-rounded " src="/img/about-section/WTM.jpg" height="128" width="128" alt="Code Labs">
-                        <p>
+                        <h5
                             Women Techmaker Buea (WTM Buea) creates a diverse community in which women can connect,
                             be inspired, and encourage each other to realize their passions.
                             They are continually contributing to open source and empowering women around the Buea area.
-                        </p>
+                        </h5>
 
                     </div>
                 </div>
                  <div class="clearfix visible-xs"></div>
+                 <br>
+			<span class="bordered active ">
+
+
+                <a href="http://www.gdgbuea.org/" class="btn btn-primary waves-effect waves-float  waves-button waves-light" target= "_blank" >
+        <b>Join Us</b>
+<!--class="btn btn-primary waves-effect waves-button waves-light waves-float" target="_blank">Become a speaker<font-family:'Lato';font-size: 20px;font-style: italic;color:#F2F2F2 ;/a>-->
+                    </a>
+
+			</span>
             </div>
         </div>
+        <div class="animated hiding" data-animation="fadeInDown" data-delay="500">
+            
+            <p>Here is our Slogan: Women Techmakers GDG Buea</p></div>
     </div>
 
 <!-- End About Section -->
