@@ -140,7 +140,18 @@
 
             <div class="row about-details">   
 
-                <div class="col-md-11 col-xs-6">
+                <div class="col-md-6 col-xs-6">
+                    <div class="animated hiding" data-animation="fadeInDown" data-delay="0">
+                        <h5>GDG Buea</h5>
+                        <img class="img-rounded" src="/img/about-section/GDG.jpg" height="128" width="128" alt="Conference">
+
+
+                        <p>The Google Developer Group Buea (GDG Buea) is a techosystem of electronic enthusiasts
+                            and technically-minded hobbyists which grooms hackers, entrepreneurs and researchers
+                            by creating an anti-authoritarian culture where Google's technologies are employed to solve the technical problems.</p>
+                    </div>
+                </div>        
+                <div class="col-md-6 col-xs-6">
                     <div class="animated hiding" data-animation="fadeInDown" data-delay="500">
                         <h5>
                             WTM Buea
