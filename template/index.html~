@@ -146,34 +146,30 @@
                             WTM Buea
                         </h5>
                         <img class="img-rounded " src="/img/about-section/WTM.jpg" height="128" width="128" alt="Code Labs">
-                        <p id="description">
+                        <h5
                             Women Techmaker Buea (WTM Buea) creates a diverse community in which women can connect,
                             be inspired, and encourage each other to realize their passions.
                             They are continually contributing to open source and empowering women around the Buea area.
-                        </p>
+                        </h5>
 
                     </div>
                 </div>
                  <div class="clearfix visible-xs"></div>
-                 <br>       
-			             
-            </div>
-            <br><br>
-              <p>Slogan Here: women make things happen</p>
+                 <br>
+			<span class="bordered active ">
 
-              <span class="bordered active ">
 
-               
-                <a href="http://www.gdgbuea.org/">
-                 <button id ="butn" type="button">
+                <a href="http://www.gdgbuea.org/" class="btn btn-primary waves-effect waves-float  waves-button waves-light" target= "_blank" >
         <b>Join Us</b>
-            </button>
-                </a>
-               
-            </span>
+<!--class="btn btn-primary waves-effect waves-button waves-light waves-float" target="_blank">Become a speaker<font-family:'Lato';font-size: 20px;font-style: italic;color:#F2F2F2 ;/a>-->
+                    </a>
 
+			</span>
+            </div>
         </div>
+        <div class="animated hiding" data-animation="fadeInDown" data-delay="500">
             
+            <p>Here is our Slogan: Women Techmakers GDG Buea</p></div>
     </div>
 
 <!-- End About Section -->
