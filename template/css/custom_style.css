@@ -79,3 +79,11 @@ body{
 .event{
 	color: black;
 }
+#content{
+  float: right;
+}
+
+#img{
+  float: left;
+  margin: 5px;
+}
