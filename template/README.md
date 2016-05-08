@@ -44,6 +44,7 @@ C. General development process
 
 
 D. Change log
+   This is the initial version of this project. Themes, content and documenttation have been updated pending the upcoming release.
 E. License and author info
 
    Contacts
