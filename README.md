@@ -66,4 +66,4 @@ E. License and author info
 
    Licence
    -------
-   wtm-website is available under 
+   wtm-website is available under the GPL 3 licence. See license.txt for more information.
